@@ -1,3 +1,3 @@
 # hello-world
 My first tutorial
-Just adding a centence here.
+Just adding a sentence here.
